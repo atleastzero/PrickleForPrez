@@ -1,0 +1,12 @@
+.newsletter-signup {
+    background: white;
+    background-image: url("frontpagehedgie.jpg");
+    background-repeat: no-repeat;
+    transform: scaleX(-1);
+    height: 28rem;
+    background-position: left;
+}
+
+.newsletter-signup-container {
+    transform: scaleX(-1);
+}
